@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABOUT on My Website</title>
-    <link>https://Ji-shuo.github.io/about/</link>
+    <link>https://jishuo.info/about/</link>
     <description>Recent content in ABOUT on My Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
-    <atom:link href="https://Ji-shuo.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jishuo.info/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

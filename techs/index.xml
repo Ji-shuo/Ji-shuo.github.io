@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on My Website</title>
-    <link>https://Ji-shuo.github.io/techs/</link>
+    <link>https://jishuo.info/techs/</link>
     <description>Recent content in Techs on My Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Edna West</copyright>
     <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
-    <atom:link href="https://Ji-shuo.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jishuo.info/techs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>D3</title>
-      <link>https://Ji-shuo.github.io/techs/d3/</link>
+      <link>https://jishuo.info/techs/d3/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
-      <guid>https://Ji-shuo.github.io/techs/d3/</guid>
+      <guid>https://jishuo.info/techs/d3/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>https://Ji-shuo.github.io/techs/javascript/</link>
+      <link>https://jishuo.info/techs/javascript/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
-      <guid>https://Ji-shuo.github.io/techs/javascript/</guid>
+      <guid>https://jishuo.info/techs/javascript/</guid>
       <description></description>
     </item>
   </channel>
